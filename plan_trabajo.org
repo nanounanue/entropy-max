@@ -1,0 +1,21 @@
+#+TITLE:     Max-Ent
+#+AUTHOR:    Miguel Angel Escalante Serrato
+#+EMAIL:     escalas5@gmail.com
+#+LANGUAGE:  es
+#+LaTeX_CLASS: article
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+* Maxent
+** Revisión de Literatura.
+   DEADLINE: <2014-08-18 Mon>
+*** [[file:bibliography/FithianHastie.pdf][Finite sample equivalence in statistical modelos for presence-only data]]
+*** [[file:bibliography/ecolmod.pdf][ Maximum entropy modeling of species geographic distributions]]
+*** [[file:bibliography/ElithPhilips.pdf][A statistical explanation of MaxEnt for ecologists]]
+*** [[file:bibliography/PhilipsDudik.pdf][A Maximum Entropy Approach to Species Distribution Modeling]]
+*** [[http://www.cs.princeton.edu/~schapire/maxent/][MaxEnt page]]
+** Revisión de la implementación.
+* Logit.
+** Planteamiento de Logit.
+** Equivalencia de problemas.
+* Implementación.
+** Implementación de la equivalencia.
